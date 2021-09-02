@@ -2,6 +2,18 @@
 テスト98
 
 テスト97
+<<<<<<< HEAD
 さいのひら
 
 nishizono
+=======
+<<<<<<< HEAD
+test yonezawa
+=======
+さいのひら
+>>>>>>> 9d6ad75ada9245b913f86663f0573be0611f41ab
+
+ひきた
+>>>>>>> d86ebf741cd1acf292dc95e1264e926edca2cc36
+
+にしぞの
