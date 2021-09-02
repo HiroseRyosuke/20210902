@@ -1,3 +1,7 @@
 aaaa
 bbbb
 nishizono
+<<<<<<< HEAD
+=======
+nishizono2
+>>>>>>> develop_nishizono
