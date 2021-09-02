@@ -13,7 +13,4 @@ test yonezawa
 ‚³‚¢‚Ì‚Ð‚ç
 >>>>>>> 9d6ad75ada9245b913f86663f0573be0611f41ab
 
-‚Ð‚«‚½
->>>>>>> d86ebf741cd1acf292dc95e1264e926edca2cc36
-
-‚É‚µ‚¼‚Ì
+nishizonokenta
